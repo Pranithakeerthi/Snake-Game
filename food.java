@@ -1,3 +1,5 @@
+package name= Snake-Game;
+
 public class Food {
 
 private Snake snake = new Snake();
