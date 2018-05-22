@@ -1,3 +1,5 @@
+package name= Snake-Game;
+
 private boolean movingLeft = false;
 private boolean movingRight = false;
 private boolean movingUp = false;
